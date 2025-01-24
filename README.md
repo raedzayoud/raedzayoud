@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zayoud Raed</h1>
 <h3 align="center">A passionate mobile developer from Tunisia</h3>
 
-- 💬 Ask me about **Flutter,PHP,Firebase,Sql**
+- 💬 Ask me about **Flutter, PHP , Firebase , Sql**
 
 - 📫 How to reach me **raed.zayoud.23@gmail.com**
 
