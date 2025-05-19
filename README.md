@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-raedzayouds-projects.vercel.app/](https://portfolio-raedzayouds-projects.vercel.app/)
 
-- 💬 Ask me about **Flutter,PHP,Firebase,Sql**
-
 - 📫 How to reach me **raed.zayoud.20@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
